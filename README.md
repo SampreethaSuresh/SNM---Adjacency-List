@@ -6,6 +6,8 @@ Dependencies:
 paramiko - To install this module, use the following command:
 pip install Paramiko
 
+Executed on Python Version 2.7.5
+
 How to run:
 
 1. Set up a topology consisting of switches and routers with interconnections between them.
